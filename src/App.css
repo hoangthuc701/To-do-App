@@ -30,3 +30,18 @@
     transform: rotate(360deg);
   }
 }
+.mt-30{
+  margin-top: 30px;
+}
+.mt-15{
+  margin-top: 15px;
+}
+
+.sort_selected::after{
+  font-family: FontAwesome;
+  content: '\f00c';
+  font-weight: normal;
+  margin: 0px 0px 0px 10px;
+  display: inline-block;
+
+}
